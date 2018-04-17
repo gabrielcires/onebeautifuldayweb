@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'obdf';
+  src:  url('../fonts/obdf.eot?mu41az');
+  src:  url('../fonts/obdf.eot?mu41az#iefix') format('embedded-opentype'),
+    url('../fonts/obdf.ttf?mu41az') format('truetype'),
+    url('../fonts/obdf.woff?mu41az') format('woff'),
+    url('../fonts/obdf.svg?mu41az#obdf') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ion-"], [class*=" ion-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'obdf' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ion-artists-obdf:before {
+  content: "\e900";
+}
+.ion-artists-obdf-out:before {
+  content: "\e901";
+}
+.ion-contacto-obdf:before {
+  content: "\e902";
+}
+.ion-contacto-obdf-out:before {
+  content: "\e903";
+}
+.ion-home-obdf:before {
+  content: "\e904";
+}
+.ion-home-obdf-out:before {
+  content: "\e905";
+}
+.ion-info-obdf:before {
+  content: "\e906";
+}
+.ion-info-obdf-out:before {
+  content: "\e907";
+}
+.ion-news-obdf:before {
+  content: "\e908";
+}
+.ion-news-obdf-out:before {
+  content: "\e909";
+}
+.ion-place-obdf:before {
+  content: "\e90a";
+}
+.ion-place-obdf-out:before {
+  content: "\e90b";
+}
+.ion-shop-obdf:before {
+  content: "\e90c";
+}
+.ion-shop-obdf-out:before {
+  content: "\e90d";
+}
+.ion-transport-obdf:before {
+  content: "\e90e";
+}
+.ion-transport-obdf-out:before {
+  content: "\e90f";
+}
